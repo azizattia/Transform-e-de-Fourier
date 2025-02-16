@@ -16,3 +16,5 @@ Ce projet met en œuvre la **Transformée de Fourier** pour analyser le spectre 
 ## Exécution
 ```bash
 python fourier_transform.py
+
+Mohamed Aziz Attia
